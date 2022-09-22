@@ -1,0 +1,103 @@
+.contact-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding:10px 0px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+.contact-card:hover {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding:10px 0px;
+    background-color: #ebd7f5;
+    border-radius: 20px;
+}
+.initial-card {
+    background-color: chocolate;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 80px;
+    top: 2px;
+}
+.initial-text {
+    font-size: 20px;
+    color: #ffffff;
+}
+.contact-item-name {
+   font-weight: bold;
+  font-size: 18px;
+}
+.contact-item-status {
+   font-weight: bold;
+   color: #686b70;
+}
+.contact-item-location {
+    font-weight: bold;
+    color: #686b70;
+}
+
+.contact-item-info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 40%;
+    margin-left: 60px;
+}
+.contact-item-icons-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 47%;
+}
+.action-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 80px;
+}
+.cornflowerblue {
+    background-color: cornflowerblue;
+}
+.darkblue {
+    background-color: darkblue;
+}
+.darksalmon {
+    background-color: darksalmon;
+}
+.dodgerblue {
+    background-color: dodgerblue;
+}
+.gold {
+    background-color:gold;
+}
+.grey {
+    background-color:grey;
+}
+.lightcyan {
+    background-color:lightcyan;
+}
+.mediumpurple {
+    background-color:mediumpurple;
+}
+.olive {
+    background-color: olive;
+}
+@media screen and (max-width:767px){
+    .initial-card{
+        display: none;
+    }
+    .contact-item-info-container {
+        margin-left: 20px;
+    }
+}

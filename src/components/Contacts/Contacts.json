@@ -1,0 +1,405 @@
+[{
+    "id" : 1,
+    "name" : "Robert Marter",
+    "status" : "Active",
+    "location" : "Miami, USA",
+    "tags" : ["CLIENT","WORKSHOP"],
+    "isFavoriate":false
+},
+{
+    "id" : 2,
+    "name" : "Amile John",
+    "status" : "Inactive",
+    "location" : "Colfornia, USA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 3,
+    "name" : "Bahore Kani",
+    "status" : "Active",
+    "location" : "Paris, France",
+    "tags" : ["CLIENT","BOARD ROOM"],
+    "isFavoriate":false
+},
+{
+    "id" : 4,
+    "name" : "Chagath Hema",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["CLIENT","INTERNAL WORKS"],
+    "isFavoriate":true
+},
+{
+    "id" : 5,
+    "name" : "Chemaska Lemad",
+    "status" : "Inactive",
+    "location" : "London, England",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+,
+{
+    "id" : 6,
+    "name" : "Doras kema",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 7,
+    "name" : "Damodar Raj",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "INTERNAL WORKS",
+    "isFavoriate":false
+},
+{
+    "id" : 8,
+    "name" : "Eswar Kema",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 9,
+    "name" : "Estham Makur",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":true
+},
+{
+    "id" : 10,
+    "name" : "Forzen Sethu",
+    "status" : "Inactive",
+    "location" : "Miami, USA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},{
+    "id" : 11,
+    "name" : "Forbz Kema",
+    "status" : "Inactive",
+    "location" : "Paris, France",
+    "tags" : ["CLIENT","WORKSHOP"],
+    "isFavoriate":false
+},
+{
+    "id" : 12,
+    "name" : "Ghana Anand",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 13,
+    "name" : "Ganesh rao",
+    "status" : "Active",
+    "location" : "VijayaWada, India",
+    "tags" : ["CLIENT","BOARD ROOM"],
+    "isFavoriate":false
+},
+{
+    "id" : 14,
+    "name" : "Hemanth kare",
+    "status" : "Inactive",
+    "location" : "Toronto, CA",
+    "tags" : ["CLIENT","INTERNAL WORKS"],
+    "isFavoriate":false
+},
+{
+    "id" : 15,
+    "name" : "Hesanth forum",
+    "status" : "Inactive",
+    "location" : "London, England",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+,
+{
+    "id" : 16,
+    "name" : "Irena mona",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 17,
+    "name" : "Itel Kasep",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "INTERNAL WORKS",
+    "isFavoriate":false
+},
+{
+    "id" : 18,
+    "name" : "Jaswal Kinde",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 19,
+    "name" : "Jennarao Kema",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 20,
+    "name" : "Kamal gade",
+    "status" : "Inactive",
+    "location" : "Miami, USA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},{
+    "id" : 21,
+    "name" : "Katal Gema",
+    "status" : "Inactive",
+    "location" : "Paris, France",
+    "tags" : ["CLIENT","WORKSHOP"],
+    "isFavoriate":false
+},
+{
+    "id" : 22,
+    "name" : "Lokesh Rana",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 23,
+    "name" : "Manadha Gana",
+    "status" : "Active",
+    "location" : "VijayaWada, India",
+    "tags" : ["CLIENT","BOARD ROOM"],
+    "isFavoriate":false
+},
+{
+    "id" : 24,
+    "name" : "Manohar kare",
+    "status" : "Inactive",
+    "location" : "Toronto, CA",
+    "tags" : ["CLIENT","INTERNAL WORKS"],
+    "isFavoriate":false
+},
+{
+    "id" : 25,
+    "name" : "Nora Gafa",
+    "status" : "Inactive",
+    "location" : "London, England",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+,
+{
+    "id" : 26,
+    "name" : "Nikhel Hema",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 27,
+    "name" : "Oresth Mana",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "INTERNAL WORKS",
+    "isFavoriate":false
+},
+{
+    "id" : 28,
+    "name" : "Otel Zema",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 29,
+    "name" : "Patesh kamal",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 30,
+    "name" : "Paragh jahas",
+    "status" : "Inactive",
+    "location" : "Miami, USA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},{
+    "id" : 31,
+    "name" : "Quata Raj",
+    "status" : "Inactive",
+    "location" : "Paris, France",
+    "tags" : ["CLIENT","WORKSHOP"],
+    "isFavoriate":false
+},
+{
+    "id" : 32,
+    "name" : "Quega Anand",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 33,
+    "name" : "Ramesh rao",
+    "status" : "Active",
+    "location" : "VijayaWada, India",
+    "tags" : ["CLIENT","BOARD ROOM"],
+    "isFavoriate":false
+},
+{
+    "id" : 34,
+    "name" : "Radha kare",
+    "status" : "Inactive",
+    "location" : "Toronto, CA",
+    "tags" : ["CLIENT","INTERNAL WORKS"],
+    "isFavoriate":false
+},
+{
+    "id" : 35,
+    "name" : "Senath Kumar",
+    "status" : "Inactive",
+    "location" : "London, England",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+,
+{
+    "id" : 36,
+    "name" : "Srena mona",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 37,
+    "name" : "Thel Kasep",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "INTERNAL WORKS",
+    "isFavoriate":false
+},
+{
+    "id" : 38,
+    "name" : "Taswal Kinde",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 39,
+    "name" : "Vennarao Kema",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    
+    "isFavoriate":false
+},
+{
+    "id" : 40,
+    "name" : "Vamath gade",
+    "status" : "Inactive",
+    "location" : "Miami, USA",
+    "tags" : "CLIENT",
+    
+    "isFavoriate":false
+},{
+    "id" : 41,
+    "name" : "Urebz Kema",
+    "status" : "Inactive",
+    "location" : "Paris, France",
+    "tags" : ["CLIENT","WORKSHOP"],
+    "isFavoriate":false
+},
+{
+    "id" : 42,
+    "name" : "Uhana Anand",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 43,
+    "name" : "Wanesh rao",
+    "status" : "Active",
+    "location" : "VijayaWada, India",
+    "tags" : ["CLIENT","BOARD ROOM"],
+    "isFavoriate":false
+},
+{
+    "id" : 44,
+    "name" : "Warna kare",
+    "status" : "Inactive",
+    "location" : "Toronto, CA",
+    "tags" : ["CLIENT","INTERNAL WORKS"],
+    "isFavoriate":false
+},
+{
+    "id" : 45,
+    "name" : "Xesanth Gafer",
+    "status" : "Inactive",
+    "location" : "London, England",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+,
+{
+    "id" : 46,
+    "name" : "Xrena mona",
+    "status" : "Active",
+    "location" : "Toronto, CA",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    
+    "isFavoriate":false
+},
+{
+    "id" : 47,
+    "name" : "Yasup Kasep",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "INTERNAL WORKS",
+    "isFavoriate":false
+},
+{
+    "id" : 48,
+    "name" : "Yaswal Kinde",
+    "status" : "Inactive",
+    "location" : "New Delhi, INDIA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+},
+{
+    "id" : 49,
+    "name" : "Zennarao Rao",
+    "status" : "Active",
+    "location" : "Mumbai, India",
+    "tags" : ["BOARD ROOM","CLIENT"],
+    "isFavoriate":false
+},
+{
+    "id" : 50,
+    "name" : "Zamal gade",
+    "status" : "Inactive",
+    "location" : "Miami, USA",
+    "tags" : "CLIENT",
+    "isFavoriate":false
+}
+]
