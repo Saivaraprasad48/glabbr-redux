@@ -139,7 +139,7 @@ function Home() {
         <div className="bg-container">
         <header className="header">
             <div className="header-info">
-               <h1 className="header-text"> DOZ Pharmacy - Contacts </h1>
+               <h1 className="header-text"> DSP Pharmacy - Contacts </h1>
             </div>
             <div className="header-actions">
                 <button className="btn-add" onClick={getAddBtn}> Add Contact </button>
